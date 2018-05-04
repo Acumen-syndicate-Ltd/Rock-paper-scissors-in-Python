@@ -1,0 +1,13 @@
+Hey there. This piece of code is created for those starting off with Python. We've got some basic list functions and conditionals. Make sure
+you're familiar with boolean, as otherwise this code made be challanging
+
+I was challanged to write a rock, paper, scissors game in 12 lines or less. That's how this code came about
+
+This particular program is made for playing against the computer. If you want to play against a friend, we'll get a code for a that in a bit! 
+
+Current goals with this code:
+-Make a better UI
+-Allow for the option of playing against a local player (human)
+-Add comments to the code
+
+--Acumen syndicate 03/05'18
